@@ -1,0 +1,1 @@
+To jest repozytorium, które bedzie zawierało komendy i linki przydatne podczas nauki GITa.
